@@ -56,7 +56,7 @@
   <a href="https://www.facebook.com/profile.php?id=100009740082487" target="_blank">
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
-  <a href="mailto:medet.ah7.medib@gmail.com" target="_blank">
+  <a href="mailto:ah7.medib@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-ibrahim-72143a230/" target="_blank">
