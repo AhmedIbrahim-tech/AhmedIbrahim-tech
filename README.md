@@ -59,7 +59,7 @@
   <a href="mailto:medet.ah7.medib@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/madat-bayramov-2b3b78160/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-ibrahim-72143a230/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
