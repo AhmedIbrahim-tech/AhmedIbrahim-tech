@@ -1,6 +1,6 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ahmed Eprahim <br />
-  [ Jounir Full Stack (.NET Core) Developer ]
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ahmed Eprahim <br /> 
+  Jounir Full Stack (.NET Core) Developer
 </h1>
 
 ---
