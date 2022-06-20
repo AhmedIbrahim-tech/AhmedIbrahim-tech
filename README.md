@@ -12,7 +12,7 @@
 ## 👨🏻‍💻 About Me:
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1yZhPpAva-Zmr9EU1FoUiEWu1sNwXRpD0/view)**
+- 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1E-Ck7tVNRY7BeU9AgF9cKCJ4uWh7O304/view?usp=sharing)**
 
 - 🔭 I’m currently working on `FreeLancer`.
 
