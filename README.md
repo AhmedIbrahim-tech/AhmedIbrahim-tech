@@ -1,5 +1,5 @@
 <h1 align="center"> Hello I'm Ahmed Eprahim <br /> 
-  Jounir Full Stack (.NET Core) Developer
+  Junior Full Stack (.NET Core) Developer
 </h1>
 
 ---
