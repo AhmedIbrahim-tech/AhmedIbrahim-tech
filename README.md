@@ -133,7 +133,3 @@ Publish or make access to information such as multimedia or documents and e-book
 Full Smart Sales System Using .Net 5
 
 <hr>
-### Instagram
-Instagram-like Site Build by .Net 5
-
-<hr>
