@@ -43,20 +43,24 @@
   <img alt="C#" src="https://img.shields.io/badge/C%20Sharp-%2314354C.svg?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/.Net5-%2314354C.svg?style=for-the-badge&logo=.Net5&logoColor=white"/>
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-%2343853D.svg?style=for-the-badge&logo=SQL Server&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
+  <br>
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+  <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
+  
+  <img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
+  <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-D14836?style=for-the-badge&logo=sass&logoColor=white"/>
+  <br>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
   <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
   <img alt="Docker" src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" height="25px"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
   <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-  <img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-  <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
-  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-  <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-  <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-D14836?style=for-the-badge&logo=sass&logoColor=white"/>
+  <br>
   <img alt="PHP" src="https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=white" height="25px"/>
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%230db7ed.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
 
