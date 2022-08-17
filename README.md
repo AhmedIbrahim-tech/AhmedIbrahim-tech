@@ -78,9 +78,19 @@
 
 <br>
 
-## :link:	Let's get connected
+<h2> Contact with me on </h2>
 
-<div>
+- business email : ah7.medib@gmail.com
+
+<p>
+  <a href="http://Wa.me/201007691743" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
+  <a href="https://www.facebook.com/ahmedeprahima" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/ahmedeprahim" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+    <a href="mailto:ah7.medib@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+<p>
+
+<!-- <div>
   <a href="https://www.instagram.com/ahmed__eprahim_/" target="_blank">
   <img alt="Instgram" src="https://img.shields.io/badge/instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -93,14 +103,24 @@
   <a href="https://www.linkedin.com/in/ahmed-ibrahim-72143a230/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+</div> -->
 
 
-## What if you like my work? 🤩<
+ <h2> What if you like my work? 🤩 </h2>
 <ul>
   <li>You can Star ⭐ the repositories you like.</li>
-  <li>You can react ❤️ to my LinkedIn posts.</li>
+<!--   <li>You can react ❤️ to my LinkedIn posts.</li> -->
 </ul>
 
 
 ![Ahmed Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedIbrahim-tech&theme=dark&include_all_commits=true&count_private=true&langs_count=true&hide_rank=true)
+
+<hr>
+
+<h2> Samples from my projects </h2>
+
+### Top Movies
+A Simple Website To Show Top Rated Movies build by .NET 5.
+<!-- <p><a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p> -->
+
+<hr>
