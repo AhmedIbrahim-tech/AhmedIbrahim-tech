@@ -10,7 +10,7 @@
 
 ---
 ## 👨🏻‍💻 About Me:
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" />
 
 <!-- 
 - 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1E-Ck7tVNRY7BeU9AgF9cKCJ4uWh7O304/view?usp=sharing)**
@@ -41,7 +41,7 @@
 <div>
 
   <img alt="C#" src="https://img.shields.io/badge/C%20Sharp-%2314354C.svg?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
-  <img alt=".NET" src="https://img.shields.io/badge/.Net5-%2314354C.svg?style=for-the-badge&logo=.Net5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>  
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-%2343853D.svg?style=for-the-badge&logo=SQL Server&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
   <br>
@@ -54,15 +54,20 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
   <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
   <img alt="Sass" src="https://img.shields.io/badge/Sass-D14836?style=for-the-badge&logo=sass&logoColor=white"/>
+<!--   <br>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> -->
   <br>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
   <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
-  <img alt="Docker" src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" height="25px"/>
+<!--   <img alt="Docker" src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" height="25px"/> -->
   <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
   <br>
   <img alt="PHP" src="https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=white" height="25px"/>
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%230db7ed.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+  <img alt="MYSQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 
 </div>
