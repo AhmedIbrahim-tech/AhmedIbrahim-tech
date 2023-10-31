@@ -1,5 +1,5 @@
 <h1 align="center"> Hello I'm Ahmed Eprahim <br /> 
-  Junior Full Stack (.NET Core) Developer
+  Full-Stack (.NET Core) Developer
 </h1>
 
 ---
@@ -88,13 +88,13 @@
 
 <h2> Contact with me on </h2>
 
-- business email : ah7.medib@gmail.com
+- business email : ahmedeprahim.official@gmail.com
 
 <p>
   <a href="http://Wa.me/201007691743" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
   <a href="https://www.facebook.com/ahmedeprahima" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/ahmedeprahim" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-    <a href="mailto:ah7.medib@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="mailto:ahmedeprahim.official@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 <p>
 
