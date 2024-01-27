@@ -18,17 +18,17 @@
 
 - 🔭 I’m currently working on `FreeLancer`.
  -->
-- 📫 Learning more about and studying : Angular , .NET Core
+- 📫 Learning more about and studying: Angular, .NET Core
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 🤔 I’m working on improving my skills in `Competitive Programming`.
+- 🤔 I’m improving my skills in `Competitive Programming`.
 
 - 🏢 Previously worked with Infosas Company.
 
-- 👯 I'm looking to collaborate with other Developer.
+- 👯 I'm looking to collaborate with other developers.
 
-- 2022 Goals: Working in Big Company & Create My Youtube Channel
+- 2022 Goals: Working in a Big Company & Create My YouTube channel
 
 - Fun fact: I love to draw & Reading & Play Games
 
@@ -38,13 +38,13 @@
 
 ---
 
-Tech Stacks I'm currently working on 🔭
+Tech Stacks, I'm currently working on 🔭
 
     Microservices 🌐    
     .Net Core 🎯
     Web API 🕸️
     System Design 📐
-    Low Level Design 🔍
+    Low-Level Design 🔍
     DSA 🔬
     Docker 🐳
     Kubernetes ☸️
@@ -59,15 +59,15 @@ Tech Stacks I'm currently working on 🔭
     
 ---
 
-##  🛠️ Languages , Frameworks and Tools I use
+##  🛠️ Languages, Frameworks, and Tools I use
 <div>
 
   <img alt="C#" src="https://img.shields.io/badge/C%20Sharp-%2314354C.svg?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>  
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-%2343853D.svg?style=for-the-badge&logo=SQL Server&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-  <img alt="EF Core" src="https://img.shields.io/badge/EF Core-%2343853D.svg?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
-  <img alt="Dapper" src="https://img.shields.io/badge/Dapper-%2343853D.svg?style=for-the-badge&logo=SQL Server&logoColor=white"/>
+  <img alt="EF Core" src="https://img.shields.io/badge/EF-Core-%2314354C.svg?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
+  <img alt="Dapper" src="https://img.shields.io/badge/Dapper-%2314354C.svg?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
   
   <br>
   
