@@ -43,18 +43,12 @@ Tech Stacks, I'm currently working on 🔭
     Microservices 🌐    
     .Net Core 🎯
     Web API 🕸️
-    System Design 📐
     Low-Level Design 🔍
     DSA 🔬
     Docker 🐳
     Kubernetes ☸️
     C# 🌟
     Azure ☁️
-    ELK Stack 📈
-    Service Mesh 🔗
-    Spring Boot 🌸
-    Spring Cloud ☁️
-    Java ☕️
     Angular 🅰️
     
 ---
